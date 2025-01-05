@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrTig-afk
+- 👋 Hi, I’m Kaushik
 - 👀 I’m interested in Machine Learning, Computer Visiona and Finance 
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on Machine Learning programming
