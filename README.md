@@ -27,12 +27,12 @@ Currently based in **Melbourne, Australia** 🇦🇺.
 - **Key Tech:** Automated ingestion of INR/USD & Oil prices every 15 minutes without a physical server.
 - **Impact:** Enables time-series analysis on fresh, structured financial data.
 
-#### 🥗 [AI-Powered Nutrition Tracker](https://github.com/MrTig-afk/YOUR-REPO-NAME)
+#### 🥗 [AI-Powered Nutrition Tracker](https://github.com/MrTig-afk/YOUR-REPO-NAME-HERE)
 *Full-stack POC transforming food images into nutritional data.*
 - **Architecture:** OCR (Text Extraction) $\rightarrow$ NLP Processing $\rightarrow$ Streamlit Dashboard.
 - **Key Tech:** Custom seq2seq model training and real-time visualization of macronutrients.
 
-#### 📄 **Resume Parsing Pipeline (Aukus Jobs) | Internship**
+#### 📄 **Resume Parsing Pipeline (Aukus Jobs)**
 *High-volume document processing system.*
 - **Key Tech:** FastAPI, GPT-4, PDF Parsing.
 - **Impact:** Processes 1,000+ resumes/day with >90% extraction accuracy.
@@ -46,10 +46,11 @@ Currently based in **Melbourne, Australia** 🇦🇺.
 
 ### ⚡ Fun Facts
 - 🧩 I can solve a **Rubik's Cube in under 60 seconds**.
+- 🌱 Currently deep-diving into **dbt (data build tool)** and **Airflow**.
 - 🏏 Events Co-ordinator for the RMIT Baseball Club.
 
 ---
 
 ### 📫 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaushikn2002)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kaushiknaru2002@gmail.com)
