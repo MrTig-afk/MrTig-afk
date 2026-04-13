@@ -1,10 +1,15 @@
 # Hi there, I'm Kaushik! 👋
 
-### 🚀 Data Engineer & Machine Learning Practitioner
+### 🚀 Data Engineer & AI Systems Builder
 
-I bridge the gap between **Raw Data** and **Actionable Insights**. My passion lies in building robust **ETL pipelines**, automating workflows with **CI/CD**, and deploying **AI/ML models** into production.
+I build end-to-end data systems that transform **raw, unstructured data into production-ready insights**.
 
-Currently based in **Melbourne, Australia** 🇦🇺.
+My focus:
+- Designing **scalable data pipelines**
+- Leveraging **LLMs for real-world extraction & automation**
+- Deploying **cloud-native, full-stack data products**
+
+Currently based in **Melbourne, Australia** 🇦🇺
 
 ---
 
@@ -12,30 +17,35 @@ Currently based in **Melbourne, Australia** 🇦🇺.
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Data Engineering** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) |
-| **Machine Learning** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
-| **Web & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Data Engineering** | ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **AI / ML** | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white) |
+| **Cloud & DevOps** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) |
 
 ---
 
 ### 🔭 Featured Projects
 
-#### ❄️ [Serverless Forex ETL Pipeline](https://github.com/MrTig-afk/snowflake-forex-etl)
-*A production-grade data pipeline built to ingest real-time financial market data.*
-- **Architecture:** Python extractors $\rightarrow$ GitHub Actions (CI/CD Cron) $\rightarrow$ Snowflake Data Warehouse.
-- **Key Tech:** Automated ingestion of INR/USD & Oil prices every 15 minutes without a physical server.
-- **Impact:** Enables time-series analysis on fresh, structured financial data.
+#### 🥗 NutriScan — AI-Powered Nutrition Pipeline
+🔗 https://nutritional-tracker-delta.vercel.app/
 
-#### 🥗 [AI-Powered Nutrition Tracker](https://github.com/MrTig-afk/YOUR-REPO-NAME-HERE)
-*Full-stack POC transforming food images into nutritional data.*
-- **Architecture:** OCR (Text Extraction) $\rightarrow$ NLP Processing $\rightarrow$ Streamlit Dashboard.
-- **Key Tech:** Custom seq2seq model training and real-time visualization of macronutrients.
+*Cloud-native data pipeline for extracting structured nutrition data from images using batch LLM inference.*
 
-#### 📄 **Resume Parsing Pipeline (Aukus Jobs)**
-*High-volume document processing system.*
-- **Key Tech:** FastAPI, GPT-4, PDF Parsing.
-- **Impact:** Processes 1,000+ resumes/day with >90% extraction accuracy.
+- **Key Innovation:** Processes multiple images in a **single multimodal API call (O(n) → O(1))**
+- **Pipeline:** FastAPI → AWS S3 → Gemini 2.5 Flash → DuckDB → React
+- **Features:** Batch upload, structured JSON output, real-time macro scaling
+- **Architecture:** Data Lake (S3) + Analytical Warehouse (DuckDB)
+
+---
+
+#### 📄 Resume Parsing Pipeline (Aukus Jobs)
+*High-volume document processing system for structured skill extraction.*
+
+- **Tech:** FastAPI, GPT-based extraction, PDF parsing
+- **Impact:** Processes 1000+ resumes/day with high accuracy
+- **Focus:** Scalable ingestion + structured skill mapping
 
 ---
 
@@ -45,9 +55,9 @@ Currently based in **Melbourne, Australia** 🇦🇺.
 ---
 
 ### ⚡ Fun Facts
-- 🧩 I can solve a **Rubik's Cube in under 60 seconds**.
-- 🌱 Currently deep-diving into **dbt (data build tool)** and **Airflow**.
-- 🏏 Events Co-ordinator for the RMIT Baseball Club.
+- 🧩 Solved a Rubik’s Cube in under 60 seconds
+- 🌱 Currently exploring **dbt + Airflow**
+- 🏏 Events Co-ordinator — RMIT Baseball Club
 
 ---
 
