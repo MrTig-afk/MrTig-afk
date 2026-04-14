@@ -102,8 +102,7 @@ Production-grade system design including:
 ---
 
 ## 📊 GitHub Stats
-
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTig-afk&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=MrTig-afk&show_icons=true)
 
 ---
 
