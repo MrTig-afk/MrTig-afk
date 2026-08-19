@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="44" viewBox="0 0 820 44" role="img" aria-label="AI Skill Recommender">
+  <rect x="0" y="0" width="820" height="44" fill="#10161E"/>
+  <path d="M0.75 44 V0.75 H820" fill="none" stroke="#39B8A8" stroke-width="1.5"/>
+  <text x="16" y="27" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#E6EDF3">AI Skill Recommender</text>
+  <text x="804" y="26" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" letter-spacing="0.7" fill="#6E7B89">SKILLIPHY  ·  JUL 2025 to JAN 2026</text>
+</svg>
