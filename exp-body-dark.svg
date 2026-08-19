@@ -1,22 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="126" viewBox="0 0 820 126" role="img" aria-label="Dual inference path: rule-based parsing for precision, embedding search for recall, selectable per request. Log-scaled evidence weighting with recruiter outcomes feeding back into ranking.">
-  <rect x="0.5" y="0.5" width="819" height="125" fill="#10161E" stroke="#58636F" stroke-width="1"/>
-  <rect x="16.0" y="18" width="121.1" height="26" fill="#161D26" stroke="#48535F" stroke-width="1"/>
-  <text x="26.0" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#9BA7B4">free-text resume</text>
-  <path d="M140.1 31H151.1" stroke="#6E7B89" stroke-width="1"/>
-  <path d="M150.1 27.5L156.1 31L150.1 34.5Z" fill="#6E7B89"/>
-  <rect x="159.1" y="18" width="140.1" height="26" fill="#10161E" stroke="#58636F" stroke-width="1"/>
-  <text x="169.1" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#E6EDF3">deterministic parse</text>
-  <path d="M302.2 31H313.2" stroke="#6E7B89" stroke-width="1"/>
-  <path d="M312.2 27.5L318.2 31L312.2 34.5Z" fill="#6E7B89"/>
-  <rect x="321.2" y="18" width="121.1" height="26" fill="#10161E" stroke="#58636F" stroke-width="1"/>
-  <text x="331.2" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#E6EDF3">embedding search</text>
-  <path d="M445.4 31H456.4" stroke="#6E7B89" stroke-width="1"/>
-  <path d="M455.4 27.5L461.4 31L455.4 34.5Z" fill="#6E7B89"/>
-  <rect x="464.4" y="18" width="133.8" height="26" fill="#0F2E2A" stroke="#39B8A8" stroke-width="1"/>
-  <text x="474.4" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#39B8A8">ranked skill graph</text>
-  <line x1="16" y1="60" x2="804" y2="60" stroke="#2A333D" stroke-width="1" stroke-dasharray="3 3"/>
-  <text x="16" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">Dual inference path: rule-based parsing for precision, embedding search for recall,</text>
-  <text x="16" y="93" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">selectable per request. Log-scaled evidence weighting with recruiter outcomes feeding back</text>
-  <text x="16" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">into ranking.</text>
-  <text x="804" y="78" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#39B8A8">FastAPI · Sentence-Transformers · Cognito</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="156" viewBox="0 0 820 156" role="img" aria-label="Dual inference path: rule-based parsing for precision, embedding search for recall, selectable per request. Log-scaled evidence weighting with recruiter outcomes feeding back into ranking.">
+  <rect x="0.5" y="0.5" width="819" height="155" fill="#10161E" stroke="#58636F" stroke-width="1"/>
+  <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#E6EDF3">AI Skill Recommender</text>
+  <text x="804" y="25" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#39B8A8">Skilliphy</text>
+  <rect x="16.0" y="48" width="121.1" height="26" fill="#161D26" stroke="#48535F" stroke-width="1"/>
+  <text x="26.0" y="65" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#9BA7B4">free-text resume</text>
+  <path d="M140.1 61H151.1" stroke="#6E7B89" stroke-width="1"/>
+  <path d="M150.1 57.5L156.1 61L150.1 64.5Z" fill="#6E7B89"/>
+  <rect x="159.1" y="48" width="140.1" height="26" fill="#10161E" stroke="#58636F" stroke-width="1"/>
+  <text x="169.1" y="65" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#E6EDF3">deterministic parse</text>
+  <path d="M302.2 61H313.2" stroke="#6E7B89" stroke-width="1"/>
+  <path d="M312.2 57.5L318.2 61L312.2 64.5Z" fill="#6E7B89"/>
+  <rect x="321.2" y="48" width="121.1" height="26" fill="#10161E" stroke="#58636F" stroke-width="1"/>
+  <text x="331.2" y="65" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#E6EDF3">embedding search</text>
+  <path d="M445.4 61H456.4" stroke="#6E7B89" stroke-width="1"/>
+  <path d="M455.4 57.5L461.4 61L455.4 64.5Z" fill="#6E7B89"/>
+  <rect x="464.4" y="48" width="133.8" height="26" fill="#0F2E2A" stroke="#39B8A8" stroke-width="1"/>
+  <text x="474.4" y="65" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#39B8A8">ranked skill graph</text>
+  <line x1="16" y1="90" x2="804" y2="90" stroke="#2A333D" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="16" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">Dual inference path: rule-based parsing for precision, embedding search for recall,</text>
+  <text x="16" y="123" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">selectable per request. Log-scaled evidence weighting with recruiter outcomes feeding back</text>
+  <text x="16" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">into ranking.</text>
+  <text x="804" y="108" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#39B8A8">FastAPI · Sentence-Transformers · Cognito</text>
 </svg>
