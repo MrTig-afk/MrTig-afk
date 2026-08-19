@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36" role="img" aria-label="linkedin-fmt on npm">
+  <rect x="0" y="0" width="38" height="36" fill="#1C2733"/>
+  <line x1="0.5" y1="8" x2="0.5" y2="28" stroke="#7E8C9A" stroke-width="1" opacity="0.45"/>
+  <text x="19" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="600" fill="#E6EDF3">npm</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="111" viewBox="0 0 880 111" role="img" aria-label="1,192 tests. Every row is fingerprinted, so re-uploading an unchanged statement is a no-op. Raw statements never leave the machine.">
+  <rect x="0.5" y="0.5" width="879" height="110" fill="#FFFFFF" stroke="#0F172A" stroke-width="1"/>
+  <rect x="18.0" y="18" width="70.6" height="26" fill="#F1F5F9" stroke="#94A0AB" stroke-width="1"/>
+  <text x="28.0" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">bank CSV</text>
+  <path d="M91.6 31H104.6" stroke="#94A0AB" stroke-width="1"/>
+  <path d="M103.6 27.5L109.6 31L103.6 34.5Z" fill="#94A0AB"/>
+  <rect x="112.6" y="18" width="102.2" height="26" fill="#FFFFFF" stroke="#0F172A" stroke-width="1"/>
+  <text x="122.6" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#0F172A">detect source</text>
+  <path d="M217.7 31H230.7" stroke="#94A0AB" stroke-width="1"/>
+  <path d="M229.7 27.5L235.7 31L229.7 34.5Z" fill="#94A0AB"/>
+  <rect x="238.7" y="18" width="146.4" height="26" fill="#FFFFFF" stroke="#0F172A" stroke-width="1"/>
+  <text x="248.7" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#0F172A">fingerprint + dedupe</text>
+  <path d="M388.2 31H401.2" stroke="#94A0AB" stroke-width="1"/>
+  <path d="M400.2 27.5L406.2 31L400.2 34.5Z" fill="#94A0AB"/>
+  <rect x="409.2" y="18" width="70.6" height="26" fill="#E6F2F4" stroke="#0E6E7D" stroke-width="1"/>
+  <text x="419.2" y="35" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#0E6E7D">Postgres</text>
+  <line x1="18" y1="60" x2="862" y2="60" stroke="#D6DEE5" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="18" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">1,192 tests. Every row is fingerprinted, so re-uploading an unchanged statement is a no-op. Raw statements never</text>
+  <text x="18" y="93" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#475569">leave the machine.</text>
+  <text x="862" y="78" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#0E6E7D">Python · Postgres · PWA</text>
+</svg>
