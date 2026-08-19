@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="744" height="44" viewBox="0 0 744 44" role="img" aria-label="LinkedIn Formatter">
-  <rect x="0" y="0" width="744" height="44" fill="#0F172A"/>
-  <path d="M0.5 44 V0.5 H744" fill="none" stroke="#0F172A" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="706" height="44" viewBox="0 0 706 44" role="img" aria-label="LinkedIn Formatter">
+  <rect x="0" y="0" width="706" height="44" fill="#0F172A"/>
+  <path d="M0.5 44 V0.5 H706" fill="none" stroke="#0F172A" stroke-width="1"/>
   <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#8E9CAC">04</text>
   <text x="41.04" y="27" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#FFFFFF">LinkedIn Formatter</text>
 </svg>
