@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="782" height="44" viewBox="0 0 782 44" role="img" aria-label="Finance Tracker">
-  <rect x="0" y="0" width="782" height="44" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="782" height="44" fill="#0F172A"/>
   <path d="M0.5 44 V0.5 H782" fill="none" stroke="#0F172A" stroke-width="1"/>
-  <rect x="16" y="14" width="22.8" height="16" fill="#0F172A"/>
-  <text x="22.0" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" letter-spacing="0.8" fill="#FFFFFF">02</text>
-  <text x="49.836" y="27" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#0F172A">Finance Tracker</text>
+  <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#8E9CAC">02</text>
+  <text x="41.04" y="27" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#FFFFFF">Finance Tracker</text>
 </svg>

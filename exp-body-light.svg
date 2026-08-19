@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="156" viewBox="0 0 820 156" role="img" aria-label="Dual inference path: rule-based parsing for precision, embedding search for recall, selectable per request. Log-scaled evidence weighting with recruiter outcomes feeding back into ranking.">
   <rect x="0.5" y="0.5" width="819" height="155" fill="#FFFFFF" stroke="#0F172A" stroke-width="1"/>
-  <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#0F172A">AI Skill Recommender</text>
+  <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#FFFFFF">AI Skill Recommender</text>
   <text x="804" y="25" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#0E6E7D">Skilliphy</text>
   <rect x="16.0" y="48" width="121.1" height="26" fill="#F1F5F9" stroke="#94A0AB" stroke-width="1"/>
   <text x="26.0" y="65" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">free-text resume</text>

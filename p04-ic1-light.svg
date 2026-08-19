@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="38" height="44" viewBox="0 0 38 44" role="img" aria-label="linkedin-fmt on npm">
-  <rect x="0" y="0" width="38" height="44" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="38" height="44" fill="#0F172A"/>
   <path d="M0 0.5 H38" fill="none" stroke="#0F172A" stroke-width="1"/>
-  <text x="19" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="600" fill="#0F172A">npm</text>
+  <text x="19" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="600" fill="#FFFFFF">npm</text>
 </svg>
