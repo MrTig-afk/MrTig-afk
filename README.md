@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="header-dark.svg"><img alt="Kaushik N, backend engineer, Melbourne. 5 pull requests merged upstream, 1,651 tests." src="header-light.svg"></picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E6E7D?style=flat-square)](https://portfolio-mrtig-afks-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E6E7D?style=flat-square)](https://kaushikn.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/kaushikn2002/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square)](mailto:kaushiknaru2002@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-1F2937?style=flat-square)](https://medium.com/@kaushiknaru2002)
@@ -26,4 +26,4 @@
 
 <a href="https://marketplace.visualstudio.com/items?itemName=kaushiknaru.linkedin-formatter"><picture><source media="(prefers-color-scheme: dark)" srcset="p04-top-dark.svg"><img alt="LinkedIn Formatter" src="p04-top-light.svg"></picture></a><a href="https://www.npmjs.com/package/linkedin-fmt"><picture><source media="(prefers-color-scheme: dark)" srcset="p04-ic1-dark.svg"><img alt="linkedin-fmt on npm" src="p04-ic1-light.svg"></picture></a><a href="https://github.com/MrTig-afk/linkedin-formatter"><picture><source media="(prefers-color-scheme: dark)" srcset="p04-ic2-dark.svg"><img alt="LinkedIn Formatter source code on GitHub" src="p04-ic2-light.svg"></picture></a><br><picture><source media="(prefers-color-scheme: dark)" srcset="p04-body-dark.svg"><img alt="LinkedIn Formatter: One core shipped as three published artifacts across two registries. The MCP server speaks stdio, so an agent calls the same code the editor does." src="p04-body-light.svg"></picture>
 
-<a href="https://portfolio-mrtig-afks-projects.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="cta-dark.svg"><img alt="Architecture write-ups, dashboards and walkthroughs on my portfolio." src="cta-light.svg"></picture></a>
+<a href="https://kaushikn.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="cta-dark.svg"><img alt="Architecture write-ups, dashboards and walkthroughs on my portfolio." src="cta-light.svg"></picture></a>
