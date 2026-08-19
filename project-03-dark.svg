@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="137" viewBox="0 0 880 137" role="img" aria-label="NutriScan. Isolation enforced by Postgres row-level security rather than by application code remembering to filter. ES256 JWTs verified server-side via JWKS.">
+  <rect x="0.5" y="0.5" width="879" height="136" fill="#10161E" stroke="#C9D1D9" stroke-width="1"/>
+  <rect x="18" y="18" width="22.2" height="16" fill="#C9D1D9"/>
+  <text x="24.0" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="0.7" fill="#0D1117">03</text>
+  <text x="50.2" y="31" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#C9D1D9">NutriScan</text>
+  <rect x="18.0" y="44" width="89.5" height="26" fill="#161D26" stroke="#48535F" stroke-width="1"/>
+  <text x="28.0" y="61" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#9BA7B4">label photo</text>
+  <path d="M110.5 57H123.5" stroke="#6E7B89" stroke-width="1"/>
+  <path d="M122.5 53.5L128.5 57L122.5 60.5Z" fill="#6E7B89"/>
+  <rect x="131.5" y="44" width="152.7" height="26" fill="#10161E" stroke="#C9D1D9" stroke-width="1"/>
+  <text x="141.5" y="61" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#C9D1D9">Gemini, then fallback</text>
+  <path d="M287.3 57H300.3" stroke="#6E7B89" stroke-width="1"/>
+  <path d="M299.3 53.5L305.3 57L299.3 60.5Z" fill="#6E7B89"/>
+  <rect x="308.3" y="44" width="70.6" height="26" fill="#10161E" stroke="#C9D1D9" stroke-width="1"/>
+  <text x="318.3" y="61" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#C9D1D9">validate</text>
+  <path d="M381.8 57H394.8" stroke="#6E7B89" stroke-width="1"/>
+  <path d="M393.8 53.5L399.8 57L393.8 60.5Z" fill="#6E7B89"/>
+  <rect x="402.8" y="44" width="95.9" height="26" fill="#0F2E2A" stroke="#39B8A8" stroke-width="1"/>
+  <text x="412.8" y="61" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#39B8A8">Postgres RLS</text>
+  <line x1="18" y1="86" x2="862" y2="86" stroke="#2A333D" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="18" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">Isolation enforced by Postgres row-level security rather than by application code remembering to filter. ES256 JWTs</text>
+  <text x="18" y="119" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#9BA7B4">verified server-side via JWKS.</text>
+  <text x="862" y="104" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#39B8A8">FastAPI · Neon · Gemini</text>
+</svg>
