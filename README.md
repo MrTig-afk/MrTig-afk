@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=35f1245f"><img alt="Kaushik N, backend engineer, Melbourne. 5 pull requests merged upstream, 1,651 tests." src="header-light.svg?v=67e65c53"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=23cfd7d2"><img alt="Kaushik N, backend engineer, Melbourne. Merged in 2 projects, 1,651 tests." src="header-light.svg?v=9361c151"></picture>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E6E7D?style=flat-square)](https://kaushikn.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/kaushikn2002/)
@@ -7,10 +7,13 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="sec-oss-dark.svg?v=cfdab6e7"><img alt="Open source contributor" src="sec-oss-light.svg?v=be62ba12"></picture>
 
-[![AmruthPillai/Reactive-Resume](https://img.shields.io/github/stars/AmruthPillai/Reactive-Resume?style=flat-square&label=AmruthPillai%2FReactive-Resume&color=0E6E7D&labelColor=0F172A)](https://github.com/AmruthPillai/Reactive-Resume/pulls?q=is%3Apr+author%3AMrTig-afk)
-[![yc-software/qm](https://img.shields.io/github/stars/yc-software/qm?style=flat-square&label=yc-software%2Fqm&color=0E6E7D&labelColor=0F172A)](https://github.com/yc-software/qm/pulls?q=is%3Apr+author%3AMrTig-afk)
+<!-- oss:start -->
 [![Rich627/whatsapp-claude-plugin](https://img.shields.io/github/stars/Rich627/whatsapp-claude-plugin?style=flat-square&label=Rich627%2Fwhatsapp-claude-plugin&color=0E6E7D&labelColor=0F172A)](https://github.com/Rich627/whatsapp-claude-plugin/pulls?q=is%3Apr+author%3AMrTig-afk)
-[![thomasdavis/crap](https://img.shields.io/github/stars/thomasdavis/crap?style=flat-square&label=thomasdavis%2Fcrap&color=0E6E7D&labelColor=0F172A)](https://github.com/thomasdavis/crap/pulls?q=is%3Apr+author%3AMrTig-afk)
+[![merged](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3ARich627%2Fwhatsapp-claude-plugin%2Bauthor%3AMrTig-afk%2Bis%3Apr%2Bis%3Amerged&query=%24.total_count&label=merged&color=0E6E7D&labelColor=0F172A&style=flat-square)](https://github.com/Rich627/whatsapp-claude-plugin/pulls?q=is%3Apr+author%3AMrTig-afk+is%3Amerged)
+[![amruthpillai/reactive-resume](https://img.shields.io/github/stars/amruthpillai/reactive-resume?style=flat-square&label=amruthpillai%2Freactive-resume&color=0E6E7D&labelColor=0F172A)](https://github.com/amruthpillai/reactive-resume/pulls?q=is%3Apr+author%3AMrTig-afk)
+[![merged](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Aamruthpillai%2Freactive-resume%2Bauthor%3AMrTig-afk%2Bis%3Apr%2Bis%3Amerged&query=%24.total_count&label=merged&color=0E6E7D&labelColor=0F172A&style=flat-square)](https://github.com/amruthpillai/reactive-resume/pulls?q=is%3Apr+author%3AMrTig-afk+is%3Amerged)
+[![yc-software/qm](https://img.shields.io/github/stars/yc-software/qm?style=flat-square&label=yc-software%2Fqm&color=0E6E7D&labelColor=0F172A)](https://github.com/yc-software/qm/pulls?q=is%3Apr+author%3AMrTig-afk)
+<!-- oss:end -->
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="sec-exp-dark.svg?v=4945dae7"><img alt="Experience" src="sec-exp-light.svg?v=c9724597"></picture>
 
